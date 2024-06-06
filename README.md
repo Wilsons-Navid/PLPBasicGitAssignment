@@ -1,0 +1,1 @@
+This repository was an illustration of how github works. From account creation, to clone the repository using git clone, staging the changes using git add, and labling the changes using git commit -m, and pushinh using git push.
